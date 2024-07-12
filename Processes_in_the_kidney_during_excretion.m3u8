@@ -1,0 +1,5 @@
+#EXTM3U
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1540000,RESOLUTION=720x524,CODECS="avc1.4d001f,mp4a.40.2"
+720p/Processes_in_the_kidney_during_excretion.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=941000,RESOLUTION=480x350,CODECS="avc1.4d001f,mp4a.40.2"
+480p/Processes_in_the_kidney_during_excretion.m3u8
